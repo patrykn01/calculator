@@ -83,3 +83,9 @@ body {
 #img-negative {
 	margin-top: 8px;
 }
+
+@media (max-width: 768px) {
+	body {
+		zoom: 70%;
+	}
+}
